@@ -13,9 +13,3 @@ Highly motivated Software Engineer with around 2 years of experience designing, 
 ![](https://github-readme-stats.vercel.app/api?username=atadurdyyewserdar&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atadurdyyewserdar&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atadurdyyewserdar&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=atadurdyyew_s)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=atadurdyyewserdar&icon=0&color=8)](https://visitcount.itsvg.in)
